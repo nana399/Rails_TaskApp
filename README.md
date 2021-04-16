@@ -1,24 +1,15 @@
-# README
+# タスク管理アプリ
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## 概要
+タスクの管理を行うことが出来ます。
 
-Things you may want to cover:
+## 目的
+- アプリを作りながらRailsの理解を深める
+- GitHubの使い方に慣れる。
+- READMEの使い方を理解する。
 
-* Ruby version
 
-* System dependencies
 
-* Configuration
 
-* Database creation
 
-* Database initialization
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
